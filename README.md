@@ -3,10 +3,10 @@ This is  simple frontend part of a university website with simple ui designs cre
 The Process of building real type projects helps in solving many errors and helps to solve real life development problems which makes you university ready.
 
 #Technilogy used :-
--HTML 
--CSS
--JAVASCRIPT 
--GOOGLE FONTS
+  - HTML 
+  - CSS
+  - JAVASCRIPT 
+  - GOOGLE FONTS
 
 Learning Credit:-GreatStack youtube platform.
 

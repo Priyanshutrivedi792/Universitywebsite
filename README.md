@@ -1,6 +1,5 @@
 # Universitywebsite
-This website is a university clone created by Priyanshu Trivedi(me) it creates only frontend part of a university website using HTML & CSS.
-Image Credit:- PEXELS & other online site.
+This is  simple frontend part of a university website with simple ui designs created as a part of learning journey 
 
 Learning Credit:-GreatStack youtube platform.
 

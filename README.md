@@ -1,8 +1,10 @@
 # Universitywebsite
 Overview
 Welcome to the University Website project! This repository contains the frontend part of a university website, designed with simple UI elements. This project was created as part of a learning journey focused on HTML and CSS. By working on this project, you will gain a solid understanding of core concepts in web development, which will serve as a foundation for further studies in full-stack development and frontend development.
+
 Purpose
 The primary goal of this project is to provide a hands-on experience in building a real-world application. By engaging in this process, you will encounter and solve various challenges that arise during development, preparing you for future projects and making you "university ready."
+
 Features
 - Simple and clean UI design
 - Responsive layout for various screen sizes

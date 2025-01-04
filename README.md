@@ -30,7 +30,7 @@ By working on this project, you will:
 - 
 Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to fork the repository and submit a pull request.
-
+You can update a specific portion 
 License
 This project is open-source and available under the MIT License.
 
